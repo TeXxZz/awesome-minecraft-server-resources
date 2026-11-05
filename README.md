@@ -49,6 +49,7 @@ Guides and comparisons for hosting a Minecraft server.
 - [Shockbyte](https://shockbyte.com) — Popular budget Minecraft hosting provider.
 - [Bisect Hosting](https://www.bisecthosting.com) — Minecraft hosting with one-click modpack installs.
 - [Apex Hosting](https://apexminecrafthosting.com) — Beginner-friendly Minecraft server hosting.
+- [ESN Hosting](https://esnoffical.com) — Budget Minecraft server hosting (from $0.99/month for 1 GB) with a Pterodactyl panel and Java + Bedrock crossplay via Geyser.
 
 ---
 
